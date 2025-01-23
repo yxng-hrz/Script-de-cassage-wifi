@@ -1,5 +1,10 @@
 #usr/bin/env python3
 
+##
+## Code fait par Guillaume Houriez 3si2
+## ESGI
+## 
+
 import os
 import subprocess
 import time
